@@ -60,7 +60,7 @@ Each operation includes carefully designed evaluation tasks to **reveal hallucin
 
 ## 🏆 LeaderBoard
 
-For a comprehensive understanding of the methodology and metric calculations, please refer to our paper: [**arXiv:2511.03506**](https://arxiv.org/abs/2511.03506).
+We conducted a comprehensive evaluation of several state-of-the-art memory systems on HaluMem, including [Mem0](https://github.com/mem0ai/mem0) (both standard and graph versions), [Memobase](https://github.com/memodb-io/memobase), [MemOS](https://github.com/MemTensor/MemOS), [Supermemory](https://github.com/supermemoryai/supermemory), and [Zep](https://github.com/getzep/zep). For a comprehensive understanding of the methodology and metric calculations, please refer to our [paper](https://arxiv.org/abs/2511.03506).
 
 ---
 
